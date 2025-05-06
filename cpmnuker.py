@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 
-__ENDPOINT_URL__: str = "https://rickdevsolutions.x10.mx/CPMCheats2/api/"
+__ENDPOINT_URL__: str = "https://testcpm2.squareweb.app/api"
 
 class OfficialGoodShit:
 
