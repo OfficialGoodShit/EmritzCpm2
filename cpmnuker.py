@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 
-__ENDPOINT_URL__: str = "https://testcpm2.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://brix-tool-premium.store/api"
 
 class OfficialGoodShit:
 
