@@ -3,7 +3,7 @@ from time import sleep
 
 __ENDPOINT_URL__: str = "https://testcpm2.squareweb.app/api"
 
-class CPMNuker:
+class OfficialGoodShit:
 
     def __init__(self, access_key) -> None:
         self.auth_token = None
