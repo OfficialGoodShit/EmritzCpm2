@@ -5,9 +5,9 @@ import subprocess
 import urllib.parse
 import json
 
-__ENDPOINT_URL__: str = "https://newkayzenupdate.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://emritzvipapiii.squareweb.app/api"
 
-class CPMTooldev:
+class OfficialGoodShit:
     def __init__(self, access_key) -> None:
         self.auth_token = None
         self.access_key = access_key
